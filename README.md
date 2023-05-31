@@ -1,5 +1,5 @@
 # Dell-G5-5500-opencore
-Dell G5 5500 (i5) Opencore
+Dell G5 5500 (***i5-10300H***) Opencore
 
 ⚠️⚠️⚠️ Warning ⚠️⚠️⚠️<br/>
 ***DO NOT*** open issues or ask questions about devices that is not Dell G5 5500 with ***Intel i5-10300H*** in this repository.
